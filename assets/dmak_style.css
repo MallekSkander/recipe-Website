@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #f8f5f2;
+
+}
+
+.tableau-style{
+    border-collapse: collapse;
+    margin: 100px auto;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow:  0 0 20px rgba(0, 0, 0, 0.20);
+}
+
+th, td {
+    padding: 15px 20px;
+} 
+
+.tableau-style thead tr{
+    background-color: #FFA100;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+
+.tableau-style tbody tr{
+    border-bottom: 1px solid #dddddd;
+}
+
+
+
+.tableau-style tbody tr:last-of-type{
+    border-bottom: 2px solid  #FFE8C1;
+}
+
+
+.tableau{
+    border-collapse: collapse;
+    min-width: 400px;
+    width: auto;
+    box-shadow: 0 5px 50 px rgba(0,0,0,0.15);
+    cursor: pointer;
+    margin: 100px auto;
+    border: 1px solid rgb(230, 142, 27);
+}
+
+
+
+
+
+

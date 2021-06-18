@@ -1,0 +1,15 @@
+Time : 01:40:30
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_admin' in 'field list'
+Raw SQL : SELECT is_admin FROM user WHERE username=:u
+
+Time : 01:34:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_admin' in 'field list'
+Raw SQL : SELECT is_admin FROM user WHERE username=:u
+
+Time : 01:34:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_admin' in 'field list'
+Raw SQL : SELECT is_admin FROM user WHERE username=:u
+
+Time : 01:32:32
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_admin' in 'field list'
+Raw SQL : SELECT is_admin FROM user WHERE username=:u
